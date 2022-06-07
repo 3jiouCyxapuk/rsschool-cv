@@ -25,6 +25,7 @@ Finished "Yandex.Prakticum" course and work as QA engineer.
 * Web crawlers
 * DevTools
 * Android Studio (mobile app testing)
+
 ----
 
 ### Code example:
@@ -40,6 +41,7 @@ return a * b
 
 * Manual QA mobile app - 1 year
 * Manual QA web app - 1,5 year
+
 ----
 
 ### Education:
@@ -47,10 +49,12 @@ return a * b
 * **University**: Gomel State Medical University
 * **Courses**: 
     * [Yandex Prakticum](https://practicum.yandex.ru/qa-engineer/) - QA Engineer
+
 ----
 
 ### Languages:
 
 * Russian - Native
 * English - B1
+
 ----

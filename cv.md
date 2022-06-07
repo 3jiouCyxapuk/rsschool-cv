@@ -1,5 +1,6 @@
 # Sergey Drobyshevskiy QA Engineer
 ![My photo](./assets/images/MyPhoto.jpg)
+
 ----
 ###  Contacts:
 
@@ -12,6 +13,7 @@
 
 My name is Sergey. Im from Belarus. Studied at Gomel State Medical University.
 Finished "Yandex.Prakticum" course and work as QA engineer.
+
 ----
 
 ### Skills:

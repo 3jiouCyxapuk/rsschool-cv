@@ -13,7 +13,7 @@
 ### About me:
 
 My name is Sergey. Im from Belarus. Studied at Gomel State Medical University.
-Finished "Yandex.Prakticum" course and work as QA engineer.
+Finished "Yandex.Practicum" course and work as QA engineer.
 
 ----
 
@@ -49,7 +49,7 @@ return a * b
 
 * **University**: Gomel State Medical University
 * **Courses**: 
-    * [Yandex Prakticum](https://practicum.yandex.ru/qa-engineer/) - QA Engineer
+    * [Yandex Practicum](https://practicum.yandex.ru/qa-engineer/) - QA Engineer
 
 ----
 

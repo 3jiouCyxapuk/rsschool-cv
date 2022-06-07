@@ -1,40 +1,54 @@
-## Sergei Drobyshevskiy
-====
-### Contacts:
+# Sergey Drobyshevskiy QA Engineer
+![My photo](./assets/images/MyPhoto.jpg)
+----
+###  Contacts:
 
-* **Phone**: +375(44)555-93-97
+* **Phone**: +375 (44) 555-93-97
 * **Email**: serega.sid@gmail.com
-====
+* **Discord nickname in RS School**: SergeyDrobyshev. (@3jiouCyxapuk)
+----
+
 ### About me:
 
-Bla-bla-bla
-====
+My name is Sergey. Im from Belarus. Studied at Gomel State Medical University.
+Finished "Yandex.Prakticum" course and work as QA engineer.
+----
+
 ### Skills:
 
 * GIT
 * Postman
 * Charles
-* JS(basic)
-====
+* JS (basic)
+* Web crawlers
+* DevTools
+* Android Studio (mobile app testing)
+----
+
 ### Code example:
 
 ```
-code exmpl
-code expml2
+function multiply (a, b) {
+return a * b
+}
 ```
-====
+----
+
 ### Experience:
 
 * Manual QA mobile app - 1 year
 * Manual QA web app - 1,5 year
-====
+----
+
 ### Education:
 
 * **University**: Gomel State Medical University
 * **Courses**: 
-    * [Yandex Practicum](https://practicum.yandex.ru/qa-engineer/) - QA Engineer
-====
+    * [Yandex Prakticum](https://practicum.yandex.ru/qa-engineer/) - QA Engineer
+----
+
 ### Languages:
 
-* Russian - native
+* Russian - Native
 * English - B1
+----

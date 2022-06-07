@@ -1,40 +1,40 @@
-##Sergei Drobyshevskiy
+## Sergei Drobyshevskiy
 ====
-###Contacts:
+### Contacts:
 
-***Phone**: +375(44)555-93-97
-***Email**: serega.sid@gmail.com
+* **Phone**: +375(44)555-93-97
+* **Email**: serega.sid@gmail.com
 ====
-###About me:
+### About me:
 
 Bla-bla-bla
 ====
-###Skills:
+### Skills:
 
-*GIT
-*Postman
-*Charles
-*JS(basic)
+* GIT
+* Postman
+* Charles
+* JS(basic)
 ====
-###Code example:
+### Code example:
 
 ```
 code exmpl
 code expml2
 ```
 ====
-###Experience:
+### Experience:
 
-*Manual QA mobile app - 1 year
-*Manual QA web app - 1,5 year
+* Manual QA mobile app - 1 year
+* Manual QA web app - 1,5 year
 ====
-###Education:
+### Education:
 
-***University**: Gomel State Medical University
-***Courses**: 
-    *[Yandex Practicum](https://practicum.yandex.ru/qa-engineer/) - QA Engineer
+* **University**: Gomel State Medical University
+* **Courses**: 
+    * [Yandex Practicum](https://practicum.yandex.ru/qa-engineer/) - QA Engineer
 ====
-###Languages:
+### Languages:
 
-*Russian - native
-*English - B1
+* Russian - native
+* English - B1

@@ -7,6 +7,7 @@
 * **Phone**: +375 (44) 555-93-97
 * **Email**: serega.sid@gmail.com
 * **Discord nickname in RS School**: SergeyDrobyshev. (@3jiouCyxapuk)
+
 ----
 
 ### About me:

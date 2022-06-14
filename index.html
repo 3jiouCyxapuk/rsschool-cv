@@ -6,25 +6,118 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="./assets/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nuosu+SIL&family=Roboto:wght@300&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
-    Sergey Drobyshevskiy QA Engineer
+    <header>
+        <div class="container-header">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#profile" class="nav-link">Profile</a></li>
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                    <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+                    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                </ul>
+            </nav>
+        </div>
 
+    </header>
+    <main>
+        <div class="container main-container">
 
-    Contacts:
+            <section class="section-profile" id="profile">
+                <img src="assets/images/MyPhoto.jpg" alt="MyPhoto" width="256" height="256">
+                <h1 class="section-title title-myname">Sergey Drobyshevskiy - QA Engineer</h1>
+                
+            </section>
 
-    Phone: +375 (44) 555-93-97
-    Email: serega.sid@gmail.com
-    Discord nickname in RS School: SergeyDrobyshev. (@3jiouCyxapuk)
+            <section class="section" id="contacts">
+                <h2 class="section-title">Contacts</h2>
+                <ul>
+                    <li>Number: +375 (44) 555-93-97</li>
+                    <li>Email: serega.sid@gmail.com</li>
+                    <li>Discord nickname in RS School: SergeyDrobyshev. (@3jiouCyxapuk)</li>
+                </ul>
+            </section>
 
+            <section class="section" id="summary">
+                <h2 class="section-title">About me:</h2>
+                <p>My name is Sergey. Im from Belarus. Studied at Gomel State Medical University.
+                    Finished "Yandex.Practicum" course and work as QA engineer.</p>
 
-    About me: My name is Sergey. Im from Belarus. Studied at Gomel State Medical University.
-    Finished "Yandex.Practicum" course and work as QA engineer. Skills: * GIT * Postman * Charles * JS (basic) *
-    Web crawlers * DevTools * Android Studio (mobile app testing) Code example: function multiply (a, b) { return
-    a * b } Experience: * Manual QA mobile app - 1 year * Manual QA web app - 1,5 year Education: *University: Gomel
-    State Medical University *Courses: *[Yandex Practicum](https://practicum.yandex.ru/qa-engineer/) - QA Engineer
-    Languages: * Russian - Native * English - B1
+            </section>
+
+            <section class="section" id="skills">
+                <h2 class="section-title">Skills:</h2>
+                <ul>
+                    <li>GIT</li>
+                    <li>Postman</li>
+                    <li>Charles</li>
+                    <li>JS (basic)</li>
+                    <li>Web crawlers</li>
+                    <li>DevTools</li>
+                    <li>Android Studio (mobile app testing)</li>
+                </ul>
+            </section>
+            <section class="section" id="code">
+                <h2 class="section-title">Code example:</h2>
+                <pre>
+                <code>
+             multiply (a, b) {
+               return
+               a * b }
+             </code>
+            </pre>
+            </section>
+
+            <section class="section" id="experience">
+
+                <h2 class="section-title">Experience:</h2>
+                <ul>
+                    <li>Manual QA mobile app - 1 year</li>
+                    <li> QA web app - 1,5 year Education:</li>
+                </ul>
+            </section>
+
+            <section class="section" id="education">
+                <h2 class="section-title">University:</h2>
+                <p>Gomel State Medical University</p>
+            </section>
+
+            <section class="section" id="courses">
+                <h2 class="section-title">Courses:</h2>
+                <a href="https://practicum.yandex.ru/qa-engineer/">Yandex Practicum - QA Engineer</a>
+
+            </section>
+
+            <section class="section" id="languages">
+                <h2 class="section-title">Languages:</h2>
+                <ul>
+                    <li>Russian- Native</li>
+                    <li>English - B1</li>
+                </ul>
+
+            </section>
+
+        </div>
+    </main>
+    <footer>
+        <div class="container-footer">
+            <a href="https://github.com/3jiouCyxapuk" class="gitlink">2022 My Github</a>
+            <a href="https://rs.school/js/" class="rss"></a>
+        </div>
+    </footer>
 </body>
 
 </html>
